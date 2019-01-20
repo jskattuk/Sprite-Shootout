@@ -1,0 +1,10 @@
+How to Play Sprite Shootout-by John Kattukudiyil. 
+Hi, and welcome to Sprite Shootout! Allow me to explain the rules of this game.
+Sprite Shootout pits two players against each other in a no-holds-barred shootout. Just pick your characters and a stage and you're all set!
+Player 1 controls their sprite (the one on the left) by moving left, right, up and down with the A, D, W and S keys respectively. The spacebar is used to fire blasts.
+Player 2 controls their sprite (the one on the left) with the left, right, up and down arrow keys, using the enter key to fire blasts.
+The key of the game is to deplete your opponent's health before they deplete yours. This can be done by firing blasts at the opponent and lowering their health.
+In terms of blasts, there are 3 kinds: Normal Blasts, Super Blasts and Hyper Blasts.
+Normal Blasts can be fired regularly and do minimal damage. Super Blasts require a little bit of charging, but they do more damage output. 
+Hyper Blasts require more charging time, but they make up for it in sheer damage.
+And that's about all you need to know about Sprite Shootout. Thanks for playing, and have fun!
